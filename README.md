@@ -1,1 +1,4 @@
 # Enhanced Course Enrollment and Notification System
+The Enhanced Course Enrollment and Notification System is a project developed as part of the Structured Systems and Analysis course at the University of Maryland Baltimore County (UMBC). This system aims to improve the course registration process by automating waitlist management, facilitating cross-departmental enrollment, and providing real-time notifications to students. By enhancing transparency and user experience for both students and administrative staff, the system addresses inefficiencies and streamlines communication.
+
+Key features include a centralized dashboard for tracking enrollments and waitlist positions, customizable notification preferences via SMS or email, and a feedback mechanism for continuous improvement. This project represents a modernized approach to course registration, aligning with UMBC's commitment to academic excellence and innovation through technology.
