@@ -1,1 +1,1 @@
-# Enhanced-Course-Enrollment-and-Notification-System
+# Enhanced Course Enrollment and Notification System
